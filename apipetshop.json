@@ -1,0 +1,15 @@
+{
+    "articulos": [
+        {
+            "id": 1,
+            "tipo": "juguete",
+            "nombre": "prueba1",
+            "imagen": "aasd",
+            "descripcion": "asd",
+            "precio": 100
+        },
+        {
+
+        }
+    ]
+}
